@@ -1,0 +1,5 @@
+gradio
+gtts
+moviepy
+Pillow
+imageio-ffmpeg
